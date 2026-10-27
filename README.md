@@ -213,4 +213,4 @@ LanFlow is offered as a full free version, giving you access to all features and
 Start creating stunning diagrams today! [Download LanFlow free](https://www.softyne.com/lanflow) and visualize your networks with ease!
 
 ---
-**Last updated:** 2026-10-26 22:03:37 UTC
+**Last updated:** 2026-10-27 01:42:11 UTC
